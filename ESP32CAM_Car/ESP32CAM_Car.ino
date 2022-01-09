@@ -1,6 +1,3 @@
-//Viral Science www.youtube.com/c/viralscience  www.viralsciencecreativity.com
-//ESP32 Camera Surveillance Car
-
 #include "esp_camera.h"
 #include <WiFi.h>
 
