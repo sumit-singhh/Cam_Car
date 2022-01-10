@@ -8,7 +8,7 @@ Components required
 
 -esp32-cam
 
--power bank
+Watch here: https://youtu.be/vRiEQPpzIt4
 
 
 ![car1](https://user-images.githubusercontent.com/88222854/148677032-2777f094-5fb2-4f35-8441-448334c75aa5.jpg)
